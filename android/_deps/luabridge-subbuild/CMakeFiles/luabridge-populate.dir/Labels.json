@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/CMakeFiles/luabridge-populate"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/CMakeFiles/luabridge-populate.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/CMakeFiles/luabridge-populate-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-test.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"luabridge-populate"
+		],
+		"name" : "luabridge-populate"
+	}
+}

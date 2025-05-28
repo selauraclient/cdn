@@ -1,0 +1,14 @@
+# Target labels
+ typesafe-populate
+# Source files and their labels
+/home/runner/work/client/client/build-android/_deps/typesafe-subbuild/CMakeFiles/typesafe-populate
+/home/runner/work/client/client/build-android/_deps/typesafe-subbuild/CMakeFiles/typesafe-populate.rule
+/home/runner/work/client/client/build-android/_deps/typesafe-subbuild/CMakeFiles/typesafe-populate-complete.rule
+/home/runner/work/client/client/build-android/_deps/typesafe-subbuild/typesafe-populate-prefix/src/typesafe-populate-stamp/typesafe-populate-build.rule
+/home/runner/work/client/client/build-android/_deps/typesafe-subbuild/typesafe-populate-prefix/src/typesafe-populate-stamp/typesafe-populate-configure.rule
+/home/runner/work/client/client/build-android/_deps/typesafe-subbuild/typesafe-populate-prefix/src/typesafe-populate-stamp/typesafe-populate-download.rule
+/home/runner/work/client/client/build-android/_deps/typesafe-subbuild/typesafe-populate-prefix/src/typesafe-populate-stamp/typesafe-populate-install.rule
+/home/runner/work/client/client/build-android/_deps/typesafe-subbuild/typesafe-populate-prefix/src/typesafe-populate-stamp/typesafe-populate-mkdir.rule
+/home/runner/work/client/client/build-android/_deps/typesafe-subbuild/typesafe-populate-prefix/src/typesafe-populate-stamp/typesafe-populate-patch.rule
+/home/runner/work/client/client/build-android/_deps/typesafe-subbuild/typesafe-populate-prefix/src/typesafe-populate-stamp/typesafe-populate-test.rule
+/home/runner/work/client/client/build-android/_deps/typesafe-subbuild/typesafe-populate-prefix/src/typesafe-populate-stamp/typesafe-populate-update.rule

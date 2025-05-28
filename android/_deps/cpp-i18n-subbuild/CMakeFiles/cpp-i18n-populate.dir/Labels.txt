@@ -1,0 +1,14 @@
+# Target labels
+ cpp-i18n-populate
+# Source files and their labels
+/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/CMakeFiles/cpp-i18n-populate
+/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/CMakeFiles/cpp-i18n-populate.rule
+/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/CMakeFiles/cpp-i18n-populate-complete.rule
+/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-build.rule
+/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-configure.rule
+/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-download.rule
+/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-install.rule
+/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-mkdir.rule
+/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-patch.rule
+/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-test.rule
+/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-update.rule

@@ -1,0 +1,14 @@
+# Target labels
+ luabridge-populate
+# Source files and their labels
+/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/CMakeFiles/luabridge-populate
+/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/CMakeFiles/luabridge-populate.rule
+/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/CMakeFiles/luabridge-populate-complete.rule
+/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-build.rule
+/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-configure.rule
+/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-download.rule
+/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-install.rule
+/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-mkdir.rule
+/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-patch.rule
+/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-test.rule
+/home/runner/work/client/client/build-android/_deps/luabridge-subbuild/luabridge-populate-prefix/src/luabridge-populate-stamp/luabridge-populate-update.rule

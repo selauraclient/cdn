@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/CMakeFiles/cpp-i18n-populate"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/CMakeFiles/cpp-i18n-populate.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/CMakeFiles/cpp-i18n-populate-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-test.rule"
+		},
+		{
+			"file" : "/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/cpp-i18n-populate-prefix/src/cpp-i18n-populate-stamp/cpp-i18n-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cpp-i18n-populate"
+		],
+		"name" : "cpp-i18n-populate"
+	}
+}

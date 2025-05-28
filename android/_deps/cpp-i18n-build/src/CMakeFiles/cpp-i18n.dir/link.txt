@@ -1,0 +1,2 @@
+/usr/local/lib/android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ar qc libcpp-i18n.a "CMakeFiles/cpp-i18n.dir/Translator.cpp.o"
+/usr/local/lib/android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib libcpp-i18n.a

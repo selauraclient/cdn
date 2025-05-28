@@ -1,0 +1,2 @@
+/usr/local/lib/android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ar qc libImGui.a "CMakeFiles/ImGui.dir/_deps/imgui-src/imgui.cpp.o" "CMakeFiles/ImGui.dir/_deps/imgui-src/imgui_demo.cpp.o" "CMakeFiles/ImGui.dir/_deps/imgui-src/imgui_draw.cpp.o" "CMakeFiles/ImGui.dir/_deps/imgui-src/imgui_tables.cpp.o" "CMakeFiles/ImGui.dir/_deps/imgui-src/imgui_widgets.cpp.o"
+/usr/local/lib/android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib libImGui.a
