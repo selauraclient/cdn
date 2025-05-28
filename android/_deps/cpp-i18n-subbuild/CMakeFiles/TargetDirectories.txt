@@ -1,3 +1,0 @@
-/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/CMakeFiles/cpp-i18n-populate.dir
-/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/CMakeFiles/edit_cache.dir
-/home/runner/work/client/client/build-android/_deps/cpp-i18n-subbuild/CMakeFiles/rebuild_cache.dir

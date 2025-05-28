@@ -1,2 +1,0 @@
-/usr/local/lib/android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ar qc libdobby_symbol_resolver.a CMakeFiles/dobby_symbol_resolver.dir/elf/dobby_symbol_resolver.cc.o CMakeFiles/dobby_symbol_resolver.dir/__/__/source/Backend/UserMode/PlatformUtil/Linux/ProcessRuntimeUtility.cc.o
-/usr/local/lib/android/sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib libdobby_symbol_resolver.a
